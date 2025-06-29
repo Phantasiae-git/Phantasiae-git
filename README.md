@@ -4,6 +4,13 @@
 🌱 I’m currently learning React and Puppeteer  
 👯 I’m looking to collaborate on innovative, ambitious projects  
 
+## 42 Progress
+
+| Project       | Language      | Concepts      |
+|---------------|---------------|---------------|
+| Libft | Row 1, Cell 2 | Row 1, Cell 3 |
+| Row 2, Cell 1 | Row 2, Cell 2 | Row 2, Cell 3 |
+
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Phantasiae-git&show_icons=true&include_all_commits=true&theme=tokyonight&bg_color=0D1117&custom_title=Phanta's%20stats%20😼:&hide_border=true)

@@ -15,4 +15,4 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Phantasiae-git&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Phantasiae-git&show_icons=true&include_all_commits&theme=radical)

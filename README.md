@@ -1,4 +1,4 @@
-# ![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF00FF&width=435&lines=Hi+there+😺,+I'm+Phanta!;Welcome+to+my+profile!)
+# ![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=e2c3e2&width=435&lines=Hi+there+😺,+I'm+Phanta!;Welcome+to+my+profile!)
 
 🔭 I’m currently working on my personal website and 42 Transcendence  
 🌱 I’m currently learning React and Puppeteer  

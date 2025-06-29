@@ -1,14 +1,8 @@
-# Hi there 👋, I'm [Your Name]!
+# Hi there 👋, I'm Phanta!
 
-🔭 I’m currently working on [project name]  
-🌱 I’m currently learning [technology/language]  
-👯 I’m looking to collaborate on [open-source projects]  
-🤔 I’m looking for help with [something you're stuck on]  
-💬 Ask me about [your expertise]  
-📫 How to reach me: [email/twitter/LinkedIn]  
-😄 Pronouns: [your pronouns]  
-⚡ Fun fact: [something interesting]  
-
+🔭 I’m currently working on my personal website, and 42 Transcendence  
+🌱 I’m currently learning React and Puppeteer  
+👯 I’m looking to collaborate on innovative, ambitious projects  
 
 
 ## 📊 GitHub Stats

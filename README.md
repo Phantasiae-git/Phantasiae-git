@@ -6,9 +6,9 @@
 
 ## 42 Progress
 
-| Project       | Language      | Concepts      |
+| Project       | Language      | Description      |
 |---------------|---------------|---------------|
-| Libft | Row 1, Cell 2 | Row 1, Cell 3 |
+| Libft | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | A library of utility low level functions |
 | Row 2, Cell 1 | Row 2, Cell 2 | Row 2, Cell 3 |
 
 

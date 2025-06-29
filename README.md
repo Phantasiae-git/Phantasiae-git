@@ -1,6 +1,6 @@
 # Hi there 😺, I'm Phanta!
 
-🔭 I’m currently working on my personal website, and 42 Transcendence  
+🔭 I’m currently working on my personal website and 42 Transcendence  
 🌱 I’m currently learning React and Puppeteer  
 👯 I’m looking to collaborate on innovative, ambitious projects  
 

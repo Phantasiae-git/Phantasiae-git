@@ -8,7 +8,7 @@
 
 | Project       | Language      | Description      |
 |---------------|---------------|---------------|
-| Libft | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | A library of utility low level functions |
+| Libft | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white](https://img.shields.io/badge/C-194c97) | A library of utility low level functions |
 | Row 2, Cell 1 | Row 2, Cell 2 | Row 2, Cell 3 |
 
 

@@ -13,6 +13,12 @@
 | get_next_line | ![C](https://img.shields.io/badge/C-194c97) | Program to fetch the next line from a file |
 | Born2beroot | ![shell](https://img.shields.io/badge/shell-375232) | Administration and security configuration of an OS in a virtual machine |
 | push_swap | ![C](https://img.shields.io/badge/C-194c97) | Sorting algorithm using stacks and limited operation types |
+| minitalk | ![C](https://img.shields.io/badge/C-194c97) | inter-terminal communication through signals only |
+| so_long | ![C](https://img.shields.io/badge/C-194c97) | Graphical simple 2d game |
+| minishell | ![C](https://img.shields.io/badge/C-194c97) | Simplified replica of the bash shell |
+| philosophers | ![C](https://img.shields.io/badge/C-194c97) | Thread managing project |
+| NetPractice | - | Practical networking exercises |
+| CPP00-04 | ![C++](https://img.shields.io/badge/C++-111885) | Introduction to C++, Object-oriented programming, classes and polymorphism, references, etc. |
 
 
 ## 📊 GitHub Stats

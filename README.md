@@ -8,17 +8,19 @@
 
 | Project       | Language      | Description      |
 |---------------|:-------------: |---------------|
-| Libft | ![C](https://img.shields.io/badge/C-194c97) | A library of utility low level functions |
-| ft_printf | ![C](https://img.shields.io/badge/C-194c97) | Replica of the printf() function |
-| get_next_line | ![C](https://img.shields.io/badge/C-194c97) | Program to fetch the next line from a file |
+| Libft | ![C](https://img.shields.io/badge/C-111885) | A library of utility low level functions |
+| ft_printf | ![C](https://img.shields.io/badge/C-111885) | Replica of the printf() function |
+| get_next_line | ![C](https://img.shields.io/badge/C-111885) | Program to fetch the next line from a file |
 | Born2beroot | ![shell](https://img.shields.io/badge/shell-375232) | Administration and security configuration of an OS in a virtual machine |
-| push_swap | ![C](https://img.shields.io/badge/C-194c97) | Sorting algorithm using stacks and limited operation types |
-| minitalk | ![C](https://img.shields.io/badge/C-194c97) | inter-terminal communication through signals only |
-| so_long | ![C](https://img.shields.io/badge/C-194c97) | Graphical simple 2d game |
-| minishell | ![C](https://img.shields.io/badge/C-194c97) | Simplified replica of the bash shell |
-| philosophers | ![C](https://img.shields.io/badge/C-194c97) | Thread managing project |
+| push_swap | ![C](https://img.shields.io/badge/C-111885) | Sorting algorithm using stacks and limited operation types |
+| minitalk | ![C](https://img.shields.io/badge/C-111885) | inter-terminal communication through signals only |
+| so_long | ![C](https://img.shields.io/badge/C-111885) | Graphical simple 2d game |
+| minishell | ![C](https://img.shields.io/badge/C-111885) | Simplified replica of the bash shell |
+| philosophers | ![C](https://img.shields.io/badge/C-111885) | Thread managing project |
 | NetPractice | - | Practical networking exercises |
-| CPP00-04 | ![C++](https://img.shields.io/badge/C++-111885) | Introduction to C++, Object-oriented programming, classes and polymorphism, references, etc. |
+| CPP00-04 | ![C++](https://img.shields.io/badge/C++-194c97) | Introduction to C++, Object-oriented programming, classes and polymorphism, references, etc. |
+| cub3d | ![C](https://img.shields.io/badge/C-111885) | Graphical 3d "game" using raycast |
+| Inception | ![Docker](https://img.shields.io/badge/Docker-3289da) | Docker multi-container application using PHP, NGINX, WordPress and MariaDB |
 
 
 ## 📊 GitHub Stats

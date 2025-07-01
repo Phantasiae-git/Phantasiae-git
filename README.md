@@ -4,6 +4,12 @@
 🌱 I’m currently learning React and Puppeteer  
 👯 I’m looking to collaborate on innovative, ambitious projects  
 
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Phantasiae-git&show_icons=true&theme=tokyonight&bg_color=0D1117&custom_title=Phanta's%20stats%20😼:&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Phantasiae-git&layout=compact&theme=tokyonight)
+
+
 ## 42 Progress
 
 | Project       | Language      | Description      |
@@ -24,8 +30,3 @@
 | Inception | ![Dockerfile](https://img.shields.io/badge/Dockerfile-3289da) ![shell](https://img.shields.io/badge/shell-375232) | Docker multi-container application using PHP, NGINX, WordPress and MariaDB |
 | CPPP09 | ![C++](https://img.shields.io/badge/C++-194c97) | Ford-johnson sorting algorithm using 2 different containers |
 | IRC | ![C++](https://img.shields.io/badge/C++-194c97) | IRC server that supports multiple connections seamlessly, channels, channel operators and more |
-
-
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Phantasiae-git&show_icons=true&theme=tokyonight&bg_color=0D1117&custom_title=Phanta's%20stats%20😼:&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Phantasiae-git&layout=compact&theme=tokyonight)

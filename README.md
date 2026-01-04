@@ -30,4 +30,4 @@
 | Inception | ![Dockerfile](https://img.shields.io/badge/Dockerfile-3289da) ![shell](https://img.shields.io/badge/shell-375232) | Docker multi-container application using PHP, NGINX, WordPress and MariaDB |
 | CPPP09 | ![C++](https://img.shields.io/badge/C++-194c97) | Ford-johnson sorting algorithm using 2 different containers |
 | IRC | ![C++](https://img.shields.io/badge/C++-194c97) | IRC server that supports multiple connections seamlessly, channels, channel operators and more |
-| Transcendence | ![Dockerfile](https://img.shields.io/badge/Dockerfile-3289da) | 3D pong game on a webapp with backend and several features including AI opponents |
+| Transcendence | ![Dockerfile](https://img.shields.io/badge/Dockerfile-3289da) ![TypeScript](https://img.shields.io/badge/TypeScript-3289da) ![SQLite](https://img.shields.io/badge/SQLite-3289da) | 3D pong game on a webapp with backend and several features including AI opponents |

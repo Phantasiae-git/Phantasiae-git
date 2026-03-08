@@ -14,7 +14,7 @@
 
 | Project       | Language      | Description      |
 |---------------|:-------------: |---------------|
-| Libft | ![C](https://img.shields.io/badge/C-111885) | A library of utility low level functions |
+| [Libft](https://github.com/Phantasiae-git/Libft) | ![C](https://img.shields.io/badge/C-111885) | A library of utility low level functions |
 | ft_printf | ![C](https://img.shields.io/badge/C-111885) | Replica of the printf() function |
 | get_next_line | ![C](https://img.shields.io/badge/C-111885) | Program to fetch the next line from a file |
 | Born2beroot | ![shell](https://img.shields.io/badge/shell-375232) | Administration and security configuration of an OS in a virtual machine |

@@ -1,6 +1,6 @@
 # ![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=e2c3e2&width=435&lines=Hi+there+😺,+I'm+Phanta!;Welcome+to+my+profile!)
 
-🔭 I’m currently working on a mobile app called Tribe and also on my personal website  
+🔭 I’m currently working on Tribe - a mobile app - and also on my personal website  
 🌱 I’m currently learning React, Puppeteer, Flutter and MongoDB
 👯 I’m looking to collaborate on innovative, ambitious projects  
 
